@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="SL4" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>SL4</name>
+	<snippet></snippet>
+	<GroundOverlay id="ID_0">
+		<name>SL4</name>
+		<snippet></snippet>
+		<drawOrder>1000</drawOrder>
+		<Icon>
+			<href>Layer0_0.png</href>
+		</Icon>
+		<LatLonBox>
+			<north>30.69451786733282</north>
+			<south>30.6578934104834</south>
+			<east>-87.91968692722843</east>
+			<west>-88.03081300858945</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Document>
+</kml>
